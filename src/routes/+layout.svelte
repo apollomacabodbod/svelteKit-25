@@ -19,6 +19,7 @@
     // browser  ->  boolean, if app is running in browser
     // building -> boolean, true , if currently building in production..
     // dev ->  boolean, if in development mode 
+    // version -> config.kit.version.name
 
 
 </script>
